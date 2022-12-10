@@ -1,14 +1,6 @@
 # Secure-Chat
 
-Ryan Chen   ryan.chen@csu.fullerton.edu
-
-Dianne Lopez    diannel@csu.fullerton.edu
-
-# Contributions
-
-Coding and Testing - Ryan
-
-Documentation - Dianne
+Dianne Lopez    diannelopez231@gmail.com
 
 ## To run server:
   python server.py
